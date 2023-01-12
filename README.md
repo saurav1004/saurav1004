@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Engineering, Analytics and ML
+- 🔭 I’m currently working on Data Engineering, Analytics, ML and NLP
 - 🌱 I’m currently learning Cloud Native technologies 
 - 👯 I’m looking to collaborate on graphs, network science, ML and Complex Systems Research
 - 🤔 I’m looking for help with Quantum Computing, Economics and Mathematics
